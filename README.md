@@ -1,0 +1,1 @@
+The Jupyter Notebook titled Identifying Risk Factors of Malaria Incidence in Nigeria.ipynb documents the project completed by Yifei Wang and Junyi Hua under the supervision of Dr. Zaslavsky in the course Data Science Approaches to Spatial Analysis.
